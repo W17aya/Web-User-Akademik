@@ -1,0 +1,3 @@
+<?php
+echo $dat[0]['user_id'];
+?>

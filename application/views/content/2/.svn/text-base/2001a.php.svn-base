@@ -1,0 +1,22 @@
+<table class="tpmain" width="100%" border="1" >
+  <tr>
+    <th width="30%" rowspan="2" scope="col"></th>
+    <th width="70%" scope="col">BIODATA</th>
+  </tr>
+  <tr>
+    <td><label class="ss">Nim </label><?php echo $dat[0]['nis']; ?><br/>  
+    <label class="ss">Nama </label><?php echo $dat[0]['nama_siswa']; ?><br/>
+	<label class="ss">Tempat/Tanggal Lahir </label><?php echo $dat[0]['tanggal_lahir']; ?><br/>
+    <label class="ss">Agama </label><?php echo $dat[0]['agama']; ?><br/>
+    <label class="ss">No Telp </label><?php echo $dat[0]['telepon']; ?><br/>
+    <label class="ss">Alamat </label><?php echo $dat[0]['alamat']; ?><br/>
+    <label class="ss">Nama Ayah </label><?php echo $dat[0]['nama_ayah']; ?><br/>
+    <label class="ss">Pekerjaan Ayah </label><?php echo $dat[0]['pekerjaan_ayah']; ?><br/>
+    <label class="ss">Nama Ibu </label><?php echo $dat[0]['pekerjaan_ibu']; ?><br/>
+    <label class="ss">Pekerjaan Ibu </label><?php echo $dat[0]['agama']; ?><br/>
+    <label class="ss">Alamat Ortu </label><?php echo $dat[0]['agama']; ?><br/>
+	<label class="ss">Status </label><?php echo $dat[0]['status']; ?><br/>
+    <label class="ss">Jenis Kelamin </label><?php echo $dat[0]['jenis_kelamin']; ?><br/>
+	</td>
+  </tr>
+</table>    

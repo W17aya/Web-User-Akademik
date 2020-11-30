@@ -1,0 +1,74 @@
+10
+
+dir
+51
+https://subversion.assembla.com/svn/sisiko/trunk/design/js/DataTables-1.9.1/media/src
+https://subversion.assembla.com/svn/sisiko
+
+
+
+2012-05-02T10:33:11.564771Z
+3
+rd fc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1fb7dac1-2830-47df-bc75-379121c4fed6
+
+DataTables.js
+file
+
+
+
+
+2012-05-03T21:58:22.077000Z
+6573e7a4b0b58350670b20d7dd911ad0
+2012-05-02T10:33:11.564771Z
+3
+rd fc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10339
+
+ext
+dir
+
+model
+dir
+
+core
+dir
+
+api
+dir
+

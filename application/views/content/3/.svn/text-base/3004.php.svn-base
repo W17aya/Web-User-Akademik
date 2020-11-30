@@ -1,0 +1,9 @@
+<?php 
+	if ($user['group'] == 'Siswa'){
+		include "3004a.php";
+	} else if ($this->user['group']=='Guru' || $this->user['group']=='Wali Kelas' || $this->user['group']=='Guru BK'){
+		include "3004b.php";
+	} else {
+		include "3004c.php";
+	}
+?>
